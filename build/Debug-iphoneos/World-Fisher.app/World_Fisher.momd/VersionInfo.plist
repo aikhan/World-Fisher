@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>World_Fisher</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>World_Fisher</key>
+		<dict>
+			<key>GameFish</key>
+			<data>
+			OXjDK3k/cAlLd3wGYapbHh1bAtcPqhO/2iM6Uz2KSNE=
+			</data>
+			<key>GameFishImage</key>
+			<data>
+			9dAMQTriLBfQqiC8NQgKVHZlS5zMS0EBdLC8blQYIaw=
+			</data>
+			<key>MyCatch</key>
+			<data>
+			hP9QcZUzPG2T9oni8ytUNwGQddUT0nU3iqU+tnvQlNo=
+			</data>
+			<key>MyCatchImage</key>
+			<data>
+			HmBo7XABQZr16cfa82PxX8JQ/aLfP8Nthap7mwsR6Nk=
+			</data>
+			<key>Temp</key>
+			<data>
+			MBSjOgIF/UKWIZc46ZaHdnlieZPUmtN4vHepSin1Pf8=
+			</data>
+			<key>TempImage</key>
+			<data>
+			cl3q2d3N0jV1luJ2pHn6ej57/w4PVOT605YzGB0Wuhw=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

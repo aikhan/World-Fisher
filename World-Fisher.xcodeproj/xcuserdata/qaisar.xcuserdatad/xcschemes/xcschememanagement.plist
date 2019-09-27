@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>World-Fisher copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>World-Fisher.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1B7ABDE418EAC4A5006E0707</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B98BA6918EAAAC3006B0B2D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B98BC5F18EAC079006B0B2D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1BA967F718EAA959003DC115</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1BA969ED18EAA9DF003DC115</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D6058900D05DD3D006BFB54</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

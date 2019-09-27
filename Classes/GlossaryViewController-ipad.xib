@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="3.0" toolsVersion="4510" systemVersion="13C64" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1296" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="GlossaryViewController">
+            <connections>
+                <outlet property="view" destination="1" id="MOt-JB-nYl"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="768" height="1004"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="staybg.png" id="sUf-4U-AfV">
+                    <rect key="frame" x="0.0" y="0.0" width="768" height="1004"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                </imageView>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" id="GKI-Vp-y9R">
+                    <rect key="frame" x="20" y="65" width="728" height="919"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <string key="text">
+Adipose fin: A fleshy fin that is absent in many fish. It is located on the back, behind the dorsal fin and forward of the caudal fin. 
+ 
+Anal fin: A fin on the underside of fish just behind the anus.
+
+Artificial flies:  A type of artificial bait that is very lightweight and made to mimic insects.  These baits are used with fly fishing tackle.
+
+Artificial lure:  A collection of baits that have been manufactured to look, sound, and move through the water like fish prey.  
+
+Artificial worms:  A type of artificial bait that is made to look like a worm.  These baits generally have a soft rubbery feel and work best when threaded onto hooks specifically made for artificial worms.
+
+Baitfish:  Small fish, whole or cut into pieces, which are used as bait.
+
+Basin:  A geological depression or low area to which water drains.  Instances of basins can include rivers, lakes, or oceans.
+
+Bobber:  A device that is attached to a fishing line which allows the bait (and hook) to come to rest at a predetermined depth in the water.
+
+Bobber fishing:  The use of a bobber to present bait to a fish at a predetermined depth in the water.  This type of fishing generally uses natural baits.
+
+Bowfishing:  A means of fishing in which a bow and arrow is used to shoot and retrieve fish.
+
+Brackish:  Water that a combination of fresh and saltwater.  Brackish water is generally found where freshwater rivers meet an ocean.
+
+Caudal Fin:  Tail fin.
+
+Caudal peduncle:  Also known as the wrist of the fish, it is the tapered part of the fish body that is just forward of the caudal fin.
+
+Dead bait:  Dead fish or other non-living animals (or parts of animals) that are used for fishing bait.
+
+Dead drift:  A fly fishing technique in which the fly is allowed to drift on top of the water following the current.
+
+Dorsal fin:  The main fin on the back of fish.  It can be separated into two or three parts and often contains sharp spines.
+
+Down rigger:  Is generally used when trolling.  Fishing line is attached to a weighted object which is then lowered into the water.  The use of a down rigger allows the bait to be pulled behind a boat at a constant depth.  When a fish strikes the bait, the line is released from the downrigger.
+
+Drainage system:  A river along with the smaller rivers and streams that feed into it.
+
+Eddy:  A section of water that has relatively small movement in comparison to the flow of water adjacent.  Typically found behind rocks, logs, or other impediment in rivers.
+
+Fingerling:  A young and/or small fish.
+
+Fish finder:  An electronic device that uses sonar to detect the bottom of a body of water along with objects (generally fish) in between.  The use of a fish finder allows those fishing to determine the depth and size of fish in the area.
+
+Fly fishing:  A type of fishing in which artificial bait (called a fly) is used which mimics the appearance of insects.  The flies are very lightweight, therefore a heavy fishing line and long fishing rod is used in order to cast the flies.
+
+Freshwater:  Water that is generally devoid of noticeable salt.  Generally the water found in rivers, streams, ponds, and lakes.
+
+Fry:  Very small fish that have recently hatched.
+
+Game fish:  Any fish that is caught for its sporting value.
+
+Ice fishing:  A type of fishing in which holes are cut into the ice that forms over bodies of water in cold climates.  Baits are then dropped through the hole cut in the ice in order to reach fish below.  Generally smaller rods are used. 
+
+Jig:  A small artificial lure consisting of a metal, weighted head and a hook that is generally covered with feathers.
+
+Jigging:  A fishing technique that involves lightly jerking artificial bait up and down in the water.
+
+Legering:  A fishing technique in which the fishing line is threaded through a weight, allowing the bait to move slightly while staying on or near the bottom of the body of water.
+
+Line test strength:  The amount of weight a fishing line can hold before breaking.
+
+Live bait:  A natural bait that is actually alive when placed on a hook.  Examples include: worms, leeches, insect larvae, insects, shrimp, and small fish. 
+
+Live well:  A container which holds water so that caught fish remain fresh until after the fishing expedition.
+
+Minnow:  A small fish used for bait.
+
+Operculum:  Gill cover of fish.
+
+Out rigger:  Similar in function to a down rigger, however instead of keeping the bait at a constant depth, it allows baits to trail at a constant distance from the side of the boat. 
+
+Panfish:   A collection of small, freshwater fish from America that anglers enjoy catching due to their strong fight in relation to their size, however they are generally considered too small to be true game fish.
+
+Pectoral fins:  Pair of fins on the sides of fish, just behind the gill covers.
+
+Plug lures:  A type of artificial bait that is shaped like a fish body and contains a scoop under the head end.  The design of the scoop causes various motions while being pulled through the water; these motions attract fish.
+
+Pool:  A wide, rounded area that is found just below a fast-moving section of rivers or streams.
+
+Predatory fish:  A fish that lives off of other live fish and animals.
+
+Rays:  The supporting elements of fish fins, these can be soft or spiny.
+
+Reel:  The device attached to a fishing rod which is used for deployment and retrieval of fishing line through a spool and crank.  
+
+Rod:  A pole that is used to extend fishing line.
+
+Salinity:  The amount of salt dissolved in water.
+
+Saltwater:  Water containing a large amount of dissolved salt.
+
+Sinker:  A weighted object used to pull bait down in water.
+
+Spear fishing:  A type of fishing that uses a spear that is thrust through a fish in order to catch it. 
+
+Spinner baits:  A type of artificial bait that consists of a hook often covered by feathers or a rubber skirt and a wire attached to the top of the hook which extends away from the hook.  The end of the wire contains a metal spoon-like apparatus that spins when moving through the water.
+
+Spoon lures:  A type of artificial bait that resembles the curvature of dinner spoons.  These baits spin or wobble through the water and attract fish through their motion and flashes of light and color.
+
+Stringer:  A line or rope that is threaded through a fish’s gills and mouth in order to keep fish that have been caught.
+
+Surface lures:  A type of artificial bait that move across the top of the water making buzzing, popping, or other sounds and motions to attract game fish.
+
+Swimbait:  A small, fish-like plastic bait that is reeled in the same manner as a plug.  
+
+Tackle:  The gear that is used for fishing.
+
+Tackle Box:  A closable box that is used to maintain and more easily carry tackle such as fishing lures and other small fishing gear.
+
+Trolling:  Pulling of fish bait through the water, generally by means of a moving boat.
+</string>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackOpaque"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="staybg.png" width="320" height="480"/>
+    </resources>
+</document>
